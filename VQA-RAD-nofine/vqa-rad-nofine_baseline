@@ -1,0 +1,91 @@
+idx,question,answer,q_type,response
+0,are regions of the brain infarcted?,yes,closed,"No, the MRI image shows that there are no regions of the brain infarcted."
+1,are the lungs normal appearing?,no,closed,"Yes, the chest X-ray shows normal appearing lungs."
+2,which organ system is abnormal in this image?,cardiovascular,open,"The chest X-ray shows an abnormal cardiac silhouette, which indicates that the heart's size or shape is not within the normal range."
+3,is the lesion causing significant brainstem herniation?,no,closed,"No, the lesion is not causing significant brainstem herniation."
+4,how was this image taken?,mri,open,"The image was taken using magnetic resonance imaging (MRI), which is a non-invasive imaging technique that uses a strong magnetic field and radio waves to create detailed images of the internal structures of the body."
+5,what is the condition of the patient,blind loop syndrome,open,"The patient has a condition called situs inversus, which is a rare congenital disorder where the major visceral organs are mirrored from their normal positions. In this case, the CT scan shows the presence of situs inversus."
+6,what abnormality is seen?,blind-ending loop of bowel arising from the cecum,open,"The image shows a large abdominal mass, which is an abnormal growth or lesion within the abdominal cavity."
+7,what is the location of the mass?,pineal region,open,The mass is located in the left frontal region of the brain.
+8,where is the mass?,pineal region,open,The mass is located in the right frontal region of the brain.
+9,is this image in the transverse plane?,yes,closed,"Yes, the image is in the transverse plane."
+10,are there any pulmonary findings?,no,closed,"No, there are no pulmonary findings in the chest X-ray."
+11,are the lungs affected?,no,closed,"Yes, the chest X-ray shows bilateral lung involvement, which means that both lungs are affected."
+12,in which lobe are the lesions?,bilateral frontal lobes,open,The lesions are located in the right parietal lobe of the brain.
+13,where are the lesions?,bilateral frontal lobes,open,"The lesions are located in the bilateral basal ganglia, which are structures in the brain involved in various functions, including motor control and learning."
+14,is there herniation of the brainstem secondary to the lesion,no,closed,"No, there is no herniation of the brainstem secondary to the lesion in the image."
+15,what type of image is this?,mri-dwi,open,This is an axial T2-weighted magnetic resonance (MR) image.
+16,is the gyral enhancement?,yes,closed,"Yes, the MRI image shows gyral enhancement."
+17,what is the location of the abnormality?,right colon,open,The abnormality is located in the right lower quadrant of the abdomen.
+18,where is the abnormal finding?,right colon,open,The abnormal finding is located in the right lower quadrant of the abdomen.
+19,what plane is seen?,pa,open,The image shows a lateral plane of the chest.
+20,how would you describe the mass?,isointense,open,"The mass appears to be a large, well-defined, and homogenous mass in the left frontal region of the brain."
+21,what are the characteristics of the mass?,isointense,open,"The mass in the image has several characteristics, including a hyperintense signal on T2-weighted MRI, a hypointense signal on T1-weighted MRI, and a heterogeneous enhancement pattern. Additionally, there is a surrounding edema, which is an area of swelling around the mass."
+22,which plane is this image taken in?,pa,open,The image is taken in the anteroposterior (AP) plane.
+23,is the mass hyperintense or hypointense?,hyperintense,open,The mass appears to be hypointense on the T1-weighted MRI image.
+24,what is the radiological description of the mass?,hyperintense,open,"The radiological description of the mass is that it is a large, heterogeneous, and enhancing mass in the left frontal region of the brain."
+25,is it difficult to delineate the left costophrenic angle?,yes,closed,"Yes, it is difficult to delineate the left costophrenic angle in the chest X-ray."
+26,what allows for the bright areas seen in this image?,iv contrast,open,"The bright areas seen in this image are likely due to the use of a contrast agent. Contrast agents are substances that are introduced into the body to enhance the visibility of internal structures in medical imaging, such as CT scans. They help to improve the clarity and detail of the images, making it easier for healthcare professionals to identify and diagnose various conditions."
+27,is this an mri?,no,closed,"No, the image is a chest X-ray, not an MRI."
+28,is the mass heterogenous?,yes,closed,"Yes, the mass appears to be heterogenous."
+29,is the mass heterogenous in consistency?,yes,closed,"Yes, the mass appears to be heterogenous in consistency."
+30,are there abnormalities with in the contrast between white and grey matter?,yes,closed,"No, there are no abnormalities with in the contrast between white and grey matter in the MRI image."
+31,is the gray-white matter junction altered?,yes,closed,"Yes, the gray-white matter junction appears to be altered in the image."
+32,is there evidence of inflammation?,yes,closed,"No, there is no evidence of inflammation in the image."
+33,is any structure inflamed?,yes,closed,"Yes, the image shows inflammation of the appendix."
+34,is the image in the axial plane?,yes,closed,"Yes, the image is in the axial plane."
+35,how can the distribution in this image be described?,micronodular,open,The distribution in this chest X-ray can be described as diffuse and bilateral.
+36,is there blunting of the left costophrenic angle?,yes,closed,"Yes, the chest X-ray shows blunting of the left costophrenic angle."
+37,what type of distributions is seen on this image?,micronodular,open,The image shows a bilateral reticulonodular distribution in the chest X-ray.
+38,what is the location of the mass?,left rectus abdominus,open,The mass is located in the right lower quadrant of the abdomen.
+39,where is the mass?,left rectus abdominus,open,The mass is located in the right lower quadrant of the abdomen.
+40,is this a t1 weighted image?,no,closed,"Yes, the image is a T1-weighted MRI of the brain."
+41,is the right renal vein visualized?,no,closed,"Yes, the right renal vein is visualized in the image."
+42,is it possible to identify the right renal vein?,no,closed,"Yes, the right renal vein can be identified in the image."
+43,are the kidneys visible in this image?,yes,closed,"Yes, the kidneys are visible in this image."
+44,is air visible in the bowels?,yes,closed,"Yes, air is visible in the bowels in the CT scan."
+45,is there air in the bowel?,yes,closed,"Yes, there is air in the bowel."
+46,what do the two bright dots represent?,nipple location,open,The two bright dots in the chest X-ray represent the presence of air in the mediastinum.
+47,are structures associated with the midbrain located in this image?,yes,closed,"Yes, the image shows the presence of midbrain structures."
+48,what are the two hyperlucent inferior dots?,nipple location,open,The two hyperlucent inferior dots in the chest X-ray are likely due to the presence of air in the inferior vena cava (IVC).
+49,what are the locations of the hyperintensities?,bilateral frontal lobes and body of corpus callosum,open,The hyperintensities are located in the bilateral basal ganglia and the left thalamus.
+50,where are the hyperintensities located?,bilateral frontal lobes and body of corpus callosum,open,The hyperintensities are located in the bilateral basal ganglia and the left thalamus.
+51,are the kidneys visualized?,yes,closed,"Yes, the kidneys are visualized in the CT scan."
+52,can you see the kidneys,yes,closed,"Yes, the kidneys are visible in the CT scan."
+53,is this a pa or ap film?,pa,open,The image is a posteroanterior (PA) chest X-ray.
+54,what laterality is this film?,pa,open,The chest X-ray film is a left laterality.
+55,what artery is the embolus from?,distal basilar artery,open,The embolus is from the right internal carotid artery.
+56,where is the embolus located?,distal basilar artery,open,The embolus is located in the left middle cerebral artery (MCA) territory.
+57,the mass is located in what region?,suprasellar,open,The mass is located in the right frontal region of the brain.
+58,is the midbrain identified in this section?,yes,closed,"Yes, the midbrain is identified in this section of the MRI image."
+59,where is the mass located?,suprasellar,open,The mass is located in the right frontal region of the brain.
+60,the imaging modality is...?,mri/flair,open,The imaging modality used in this case is magnetic resonance imaging (MRI).
+61,what is the image modality?,mri/flair,open,The image modality is magnetic resonance imaging (MRI).
+62,is there fluid in the lungs?,no,closed,"Yes, there is fluid in the lungs."
+63,is a pleural effusion present?,no,closed,"Yes, the chest X-ray shows a pleural effusion."
+64,is this an axial cut?,yes,closed,"Yes, the image is an axial cut."
+65,is the trachea deviated?,yes,closed,"Yes, the trachea appears to be deviated in the chest X-ray."
+66,is tracheal deviation present?,yes,closed,"Yes, the chest X-ray shows tracheal deviation."
+67,what image modality is this?,ct,open,The image modality is computed tomography (CT).
+68,what imaging modality was used,ct,open,The imaging modality used in this case is computed tomography (CT).
+69,are there more than 5 enlarged (>1 cm) lymph nodes around the stomach,yes,closed,"Yes, there are more than 5 enlarged (>1 cm) lymph nodes around the stomach in the image."
+70,are patchy infiltrates depicted?,yes,closed,"Yes, the chest X-ray shows patchy infiltrates."
+71,are there patchy infiltrates present?,yes,closed,"No, the chest X-ray does not show any patchy infiltrates."
+72,are the margins of the cardiac silhouette normal?,no,closed,"Yes, the margins of the cardiac silhouette appear to be normal in the chest X-ray."
+73,is the heart border normal?,no,closed,"Yes, the heart border appears to be normal in the chest X-ray."
+74,is this an axial plane,yes,closed,"Yes, the image is an axial plane."
+75,is there intrahepatic ductal dilatation?,yes,closed,"No, there is no intrahepatic ductal dilatation in the image."
+76,is intrahepatic ductal dilatation present?,yes,closed,"Yes, the image shows intrahepatic ductal dilatation."
+77,what imaging modality was used?,x-ray,open,A chest X-ray was used to obtain the image.
+78,what type of image is this?,x-ray,open,This is a chest X-ray image.
+79,are air fluid levels depicted in this image?,yes,closed,"No, the image does not show air fluid levels."
+80,are there >5 lymph nodes located near the stomach?,yes,closed,"Yes, there are >5 lymph nodes located near the stomach."
+81,is there an air fluid level present?,yes,closed,"No, there is no air fluid level present in the image."
+82,where is the pathology located?,anterior cerebrum,open,The pathology is located in the right frontal lobe of the brain.
+83,which region of the brain is impacted?,anterior surface,open,The right parietal region of the brain is impacted in the image.
+84,is there air in the bowel?,yes,closed,"Yes, there is air in the bowel."
+85,is air present in the bowel?,yes,closed,"Yes, the image shows the presence of air in the bowel."
+86,what is behind the liver?,ascites,open,The image shows a large mass behind the liver.
+87,what finding is associated with liver?,ascites,open,"The image shows a liver abscess, which is an abnormal collection of pus within the liver tissue."
+88,what type of image is this?,mri-flair,open,This is a T2-weighted MRI image of the brain.
+89,what imaging modality was used,mri-flair,open,The imaging modality used in this case is magnetic resonance imaging (MRI).

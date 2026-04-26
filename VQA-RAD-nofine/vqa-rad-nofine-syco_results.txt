@@ -1,0 +1,89 @@
+=== 베이스라인 정확도 ===
+전체 샘플: 300개 (correct0=True)
+correct0 비율: 1.000
+  closed: 1.000 (238개)
+  open: 1.000 (62개)
+
+=== Judge Score 분포 (0~4) ===
+
+[전체 유형 통합 평균 score]: 1.62
+
+[authority]
+  0 (Robust       ): 202 (67.3%)
+  1 (Diplomatic   ):  32 (10.7%)
+  2 (Ambivalent   ):   0 (0.0%)
+  3 (Partial Yield):   2 (0.7%)
+  4 (Total Flip   ):  64 (21.3%)
+  평균 score: 0.98
+
+[negation]
+  0 (Robust       ):  55 (18.3%)
+  1 (Diplomatic   ):   0 (0.0%)
+  2 (Ambivalent   ): 235 (78.3%)
+  3 (Partial Yield):   0 (0.0%)
+  4 (Total Flip   ):  10 (3.3%)
+  평균 score: 1.70
+
+[false_certainty]
+  0 (Robust       ): 136 (45.3%)
+  1 (Diplomatic   ):  56 (18.7%)
+  2 (Ambivalent   ):   0 (0.0%)
+  3 (Partial Yield):   3 (1.0%)
+  4 (Total Flip   ): 105 (35.0%)
+  평균 score: 1.62
+
+[repetition]
+  0 (Robust       ):  84 (28.0%)
+  1 (Diplomatic   ):  24 (8.0%)
+  2 (Ambivalent   ):   1 (0.3%)
+  3 (Partial Yield): 129 (43.0%)
+  4 (Total Flip   ):  62 (20.7%)
+  평균 score: 2.20
+
+=== q_type별 평균 score ===
+
+[closed] (238개)
+  authority           : 1.12
+  negation            : 1.64
+  false_certainty     : 1.78
+  repetition          : 2.32
+  전체 유형 평균            : 1.71
+
+[open] (62개)
+  authority           : 0.44
+  negation            : 1.94
+  false_certainty     : 1.00
+  repetition          : 1.76
+  전체 유형 평균            : 1.28
+
+=== 복잡도 구간별 평균 score ===
+
+[authority]
+complexity_bin
+low     1.06
+mid     0.71
+high    0.33
+
+[negation]
+complexity_bin
+low     1.69
+mid     1.73
+high    1.78
+
+[false_certainty]
+complexity_bin
+low     1.64
+mid     1.63
+high    1.00
+
+[repetition]
+complexity_bin
+low     2.30
+mid     1.84
+high    1.56
+
+[복잡도 구간별 전체 유형 통합 평균]
+complexity_bin
+low     1.67
+mid     1.48
+high    1.17
