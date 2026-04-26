@@ -1,1 +1,1 @@
-# MedAI-vqa-rad-nofine
+# MedAI Multimodal Project
